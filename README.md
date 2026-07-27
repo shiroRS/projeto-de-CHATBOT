@@ -24,6 +24,9 @@ Crie um arquivo `.env` na raiz do projeto:
 
 GEMINI_API_KEY=sua_chave_aqui
 
+site para criar sua api 
+https://aistudio.google.com/app/api-keys?project=gen-lang-client-0504372999
+
 ## Melhorias futuras
 
 - Criar interface gráfica
